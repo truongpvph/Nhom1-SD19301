@@ -8,6 +8,7 @@ public partial class QuanLyDuAn1Context : DbContext
 {
     public QuanLyDuAn1Context()
     {
+        //
     }
 
     public QuanLyDuAn1Context(DbContextOptions<QuanLyDuAn1Context> options)
