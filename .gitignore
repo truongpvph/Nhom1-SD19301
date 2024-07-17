@@ -362,8 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-/GUI/DTO/Models/
+/GUI/DTO/
 /GUI/DTO/DTO.csproj
-/GUI/DTO/Models/ChiTietPhieuMuon.cs
-/GUI/DTO/Models/ChiTietPhieuMuon.cs
-/GUI/DTO/Models/QuanLyDuAn1Context.cs
