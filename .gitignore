@@ -362,7 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# DTO
-/GUI/DTO/*
-/GUI/DTO/DTO.csproj
-/GUI/DTO/DTO.csproj
+/GUI/DTO/Models/
