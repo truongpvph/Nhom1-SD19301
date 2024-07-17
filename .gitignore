@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 # DTO
 GUI/DTO/
+/GUI/DTO/Models/QuanLyDuAn1Context.cs
