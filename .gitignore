@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 /GUI/DTO/Models/
+/GUI/DTO/DTO.csproj
+/GUI/DTO/Models/ChiTietPhieuMuon.cs
