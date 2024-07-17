@@ -363,5 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # DTO
-GUI/DTO/
-/GUI/DTO/Models/QuanLyDuAn1Context.cs
+/GUI/DTO/*
+/GUI/DTO/DTO.csproj
+/GUI/DTO/DTO.csproj
