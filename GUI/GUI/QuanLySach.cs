@@ -145,7 +145,7 @@ namespace GUI
             
             
             if (txtGiaSach.Text==""||ccbtacgia.SelectedItem==""||ccbtheloai.SelectedItem==""||txtTenSach.Text==""||cbbnxb.SelectedItem==""
-                ||txtGiaSach.Text==""||txtSoLuong.Text==""||textBox1.Text==""||txtMoTa.Text==""||txtVitri.Text=="")
+                ||txtGiaSach.Text==""||txtSoLuong.Text==""||textBox1.Text==""||txtVitri.Text=="")
             {
                 DialogResult tb = MessageBox.Show("Nhập thiếu thông tin", "Thông báo", MessageBoxButtons.OKCancel);
                 
