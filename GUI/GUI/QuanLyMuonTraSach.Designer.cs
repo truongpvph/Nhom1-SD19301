@@ -333,6 +333,7 @@
             Controls.Add(dgvquanlynv);
             Name = "QuanLyMuonTraSach";
             Size = new Size(1020, 583);
+            Load += QuanLyMuonTraSach_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvquanlynv).EndInit();
