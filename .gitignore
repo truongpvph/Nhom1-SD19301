@@ -376,3 +376,13 @@ FodyWeavers.xsd
 /GUI/DTO/Models/TaiKhoan.cs
 /GUI/DTO/Models/TheLoai.cs
 /GUI/DTO/Models/VaiTro.cs
+/GUI/DTO/Models/ChiTietPhieuMuon.cs
+/GUI/DTO/Models/DocGium.cs
+/GUI/DTO/Models/NhaXuatBan.cs
+/GUI/DTO/Models/PhieuMuon.cs
+/GUI/DTO/Models/QuanLyDuAn1Context.cs
+/GUI/DTO/Models/Sach.cs
+/GUI/DTO/Models/TacGium.cs
+/GUI/DTO/Models/TaiKhoan.cs
+/GUI/DTO/Models/TheLoai.cs
+/GUI/DTO/Models/VaiTro.cs
